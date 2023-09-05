@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="262485d4-83e0-4c67-9d7c-4be6cd143c00" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/entidades/AMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/entidades/Alquiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/entidades/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/entidades/Velero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/entidades/YateDeLujo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/servicios/AMotorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/servicios/AlquilerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/servicios/BarcoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/servicios/VeleroService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicioExtra1/servicios/YateDeLujoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,7 +86,7 @@
       <recent name="ejercicio1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ejercicioExtra1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio2.Main" />
       <module name="Herencia-Egg" />
@@ -90,18 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LavadoraServiceTest.crearLavadora" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicioExtra1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicioExtra1.Main" />
       <module name="Herencia-Egg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ejercicio2.servicios.*" />
+          <option name="PATTERN" value="ejercicioExtra1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ejercicio2.servicios" />
-      <option name="MAIN_CLASS_NAME" value="ejercicio2.servicios.LavadoraServiceTest" />
-      <option name="METHOD_NAME" value="crearLavadora" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejercicioExtra1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TelevisionServiceTest.precioFinal" />
         <item itemvalue="JUnit.TelevisionServiceTest.crearTelevisor" />
         <item itemvalue="JUnit.LavadoraServiceTest.precioFinal" />
-        <item itemvalue="JUnit.LavadoraServiceTest.crearLavadora" />
       </list>
     </recent_temporary>
   </component>
